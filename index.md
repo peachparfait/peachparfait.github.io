@@ -19,7 +19,7 @@ webアプリを作ってみたいです！！
 - [Scratch](https://scratch.mit.edu/users/parfait9/)
 - 作った作品
   - [思惟奈ちゃん公式サイト](https://sinakitagami.github.io/)
-  -今のとこそれだけ。これから増やしたい
+  
   
 # Contact
 - [Twitter](https://twitter.com/4jn0ri)
@@ -30,7 +30,7 @@ webアプリを作ってみたいです！！
 - 現役中学生　もうすぐ３年生
 - 小学３年生の時Scratchを始める
 - 小学６年生の時Why!?プログラミングというScratchに関する番組の大喜利コーナーでいくつか受賞
-- それ以降実績0。
+- 小学６年生の時ライントレースロボットの大会の予選でコース完全制覇
 
 
 
