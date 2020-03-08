@@ -8,7 +8,6 @@ webアプリを作ってみたいです！！
 - bot作成、web開発、イラストなど
 
 # Skills
-- windows10
 - Python3/HTML5/CSS3/Scratch2.0/3.0
 - Django/Jekyll
 - Git/SQLite/MySQL/Github/Gem
