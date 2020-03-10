@@ -11,7 +11,7 @@ webアプリを作ってみたいです！！
 - Python3/HTML5/CSS3/Scratch2.0/3.0
 - Django/Jekyll
 - Git/SQLite/MySQL/Github/Gem
-- 英検三級、準二級（一次試験合格）
+- 英検準二級
 
 # Works
 - [Github](https://github.com/peachparfait/)
