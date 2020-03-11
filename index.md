@@ -3,15 +3,15 @@
 webアプリを作ってみたいです！！
 
 ## Profile
-- parfait9(Ajnori)
-- 東京
-- bot作成、web開発、イラストなど
+- Name:parfait9(Ajnori)
+- Addless:東京都
+- Works:bot作成、web開発、イラストなど
 
 # Skills
-- Python3/HTML5/CSS3/Scratch2.0/3.0
-- Django/Jekyll
-- Git/SQLite/MySQL/Github/Gem
-- 英検準二級
+- Programming Languages:Python3/HTML5/CSS3/Scratch2.0/3.0
+- Frameworks:Django/Jekyll
+- Tools:Git/SQLite/MySQL/Github/bundle
+- Qualifications:英検準二級
 
 # Works
 - [Github](https://github.com/peachparfait/)
@@ -26,7 +26,7 @@ webアプリを作ってみたいです！！
 - [gmail](mailto:peachparfait10@gmail.com)
 
 # History
-- 現役中学生　もうすぐ３年生
+- 現役中学生　もうすぐ中学３年生
 - 小学３年生の時Scratchを始める
 - 小学６年生の時Why!?プログラミングというScratchに関する番組の大喜利コーナーでいくつか受賞
 - 小学６年生の時ライントレースロボットの大会の予選でコース完全制覇
