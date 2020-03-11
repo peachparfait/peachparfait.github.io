@@ -16,7 +16,7 @@ webアプリを作ってみたいです！！
 # Works
 - [Github](https://github.com/peachparfait/)
 - [Scratch](https://scratch.mit.edu/users/parfait9/)
-- 作った作品
+- Projects:
   - [思惟奈ちゃん公式サイト](https://sinakitagami.github.io/)
   
   
