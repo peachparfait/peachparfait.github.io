@@ -14,3 +14,4 @@ plugins:
   - jekyll-feed
 markdown: kramdown
 lang: ja-jp
+theme: minima
