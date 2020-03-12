@@ -25,6 +25,7 @@ span{
     font-family: 'Quicksand', sans-serif;
     font-size: 20px;
     color: #006494;
+    display: inline-block;
 }
 h1,h2{
     font-family: 'Quicksand', sans-serif;
@@ -38,6 +39,8 @@ h1{
     margin: 80px auto 30px auto;
 }
 body{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     background-color:#ffffff;
     color:#262626;
@@ -68,5 +71,8 @@ footer{
     }
     .icons img,svg{
         margin: 0 30px 30px 30px;
+    }
+    .long br{
+        display: none;
     }
 }

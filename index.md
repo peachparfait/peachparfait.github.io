@@ -29,11 +29,11 @@ webアプリを作ってみたい。
 
 ## Profile:
 - <span>Name</span>:parfait9(Ajnori)
-- <span>Addless</span>:東京都
+- <span>Address</span>:東京都
 - <span>Works</span>:bot作成、web開発、イラストなど
 
 # Skills
-- <span>Programming Languages</span>:Python3/HTML5/CSS3/Scratch2.0/3.0
+- <div class="long"><span>Programming Languages</span>:<br>Python3/HTML/CSS/Scratch</div>
 - <span>Frameworks</span>:Django/Jekyll
 - <span>Tools</span>:Git/SQLite/MySQL/Github
 - <span>Qualifications</span>:英検準二級
