@@ -8,7 +8,7 @@ title: "Parfait9"
 
 <br>
 <center>
-  <img src="img/icon1.jpg" alt = "アイコン" width= "200">
+  <img src="img/icon1.png" alt = "アイコン" width= "200">
 </center>  
 <h1 class="bigtitle">Parfait9</h1>
 <center><div class="icons">
