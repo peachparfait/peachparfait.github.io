@@ -2,7 +2,7 @@ url: "https://peachparfait.github.io" # the base hostname & protocol for your si
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "parfait9"
 description: >- # this means to ignore newlines until "baseurl:"
-  ぱふぇ（あじのり）のサイトです
+  Webアプリ、スマホアプリ開発やWebデザインなどを勉強しています
 defaults:
   - scope:
       path: ""
