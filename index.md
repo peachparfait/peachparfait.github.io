@@ -27,8 +27,8 @@ webアプリを作ってみたい。
 - <span>Works</span>:bot作成、web開発、イラストなど
 
 # Skills
-- <div class="long"><span>Programming Languages</span>:<br>Python3/HTML/CSS/Scratch</div>
-- <span>Frameworks</span>:Django/Jekyll
+- <div class="long"><span>Programming Languages</span>:<br>Python3/HTML/CSS/Scratch/JS/Arduino</div>
+- <span>Frameworks</span>:Django/Jekyll/React/React Native
 - <span>Tools</span>:Git/SQLite/MySQL/Github
 - <span>Qualifications</span>:英検準二級
 
