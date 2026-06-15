@@ -34,6 +34,6 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 # Works
   <center>
   <ul class="pictures"><li><a href="https://sinakitagami.github.io/"><img src="img/Sina_Square.png" alt = "思惟奈ちゃん公式サイト" width= "248" height="248" ></a></li></ul>
-  学内アイデアコンテスト「U☆Poc」2024年度にて、自身がPMを務めていた「Megully」が企業賞を受賞
+  学内アイデアコンテスト「U☆Poc」2024年度にて、自身がPMを務めていた「Megully」が企業賞を受賞<br>
   バーチャルライブ研究会のライブ「MIKUEC」にて、「Sleeping Awake」の映像や「キラー」のイラストなどを制作
   </center>
